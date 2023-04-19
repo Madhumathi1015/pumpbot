@@ -5,7 +5,7 @@ export const Welcome: React.FC = () => (
       I will provide solutions to all your fluid delivery needs
     </p>
     <p>
-      <a className="underline" href="https://github.com/ascorbic/daneel#readme">
+      <a className="underline" href="https://github.com/Madhumathi1015/pumpbot#readme">
         Build your own
       </a>
     </p>
